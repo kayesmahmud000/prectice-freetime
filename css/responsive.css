@@ -1,0 +1,26 @@
+@media screen and (max-width: 576px) {
+    .nav-main{
+        flex-direction: column;
+    }
+    .nav-right{
+        flex-direction: column;
+    
+    }
+    .nav-btn{
+        margin-top: 20px;
+    }
+    .goat-container{
+        flex-direction: column-reverse;
+    }
+   .goat-container img {
+    width: 100%;
+    
+   }
+   .goat-img{
+    width: 80%;
+   }
+   .goat-discription{
+    margin-top: 50px;
+
+   }
+}
