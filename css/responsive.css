@@ -23,4 +23,18 @@
     margin-top: 50px;
 
    }
+   .gamer-content{
+    flex-direction: column;
+   }
+   
+   .gamer-img img{
+        width: 100%;
+        
+    
+   }
+   .gamer-discription{
+        text-align: center;
+        padding: 0px 50px 0px 50px;
+        
+   }
 }
