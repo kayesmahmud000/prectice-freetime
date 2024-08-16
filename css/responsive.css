@@ -37,4 +37,23 @@
         padding: 0px 50px 0px 50px;
         
    }
+   .game-video-content{
+         flex-direction: column;
+   }
+
+   .game-video h2{
+        padding: 0px 20px 0px 20px;
+        font-size: 1.8rem;
+   }
+   .funny-video{
+    font-size: 1.8rem;
+   }
+   .game-video-content img{
+        width: 85%;
+   }
+   .game-video-content p{
+         text-align: center;
+         font-weight: 500;
+         padding: 0px 10px 0px 10px ;
+   }
 }
